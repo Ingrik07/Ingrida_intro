@@ -16,18 +16,18 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Skills](#skills)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
+- [My_skills](#My_skills)
+- [Power_BI](#Power_BI)
+- [SQL](#SQL)
+- [CLV](#CLV)
+- [A/B_testin](#backers-)
 - [Sponsors](#sponsors-)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-![Logos/th-4030204678](https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/Linkedin-Logo-180x180-1789156493.png))
+![Logos/th-4030204678](https://media.licdn.com/dms/image/C4E12AQGPwaGUxvHKGQ/article-inline_image-shrink_400_744/0/1520629875316?e=1724889600&v=beta&t=DMWQUM3MjjH_UzkbR3RiI20S5Se0YIJJehuRy3_mQo0)(https://www.linkedin.com/in/ingrida-ivinskait%C4%97-08b5837b/)
 
 
 ## Skills
