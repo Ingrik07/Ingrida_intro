@@ -6,14 +6,21 @@
  <img alt="See-my-image" src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
 </picture>
 
-- Currently actively learning **data analytics** at Turing college
-- Working cyber security company as **marketing senior manager**.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+ 
+- 💻 Currently I am influencers marketing senior specialist
+- 👩‍🎓 Finished CodeAcademy Big Data courses
+- 👩🏻‍💻📓💻 Currently studying at Turing College Data analytics courses
+- ⚡ Fun fact: I also hold MA degree in Political science/European studies field
+- 
+<h3> ✉️Contact me </h3> 
+<p align="left">
+    <a href="https://www.linkedin.com/in/ingrida-ivinskait%C4%97-08b5837b/" target="_blank"> <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG31.png" alt="html5" width="105" height="40"/a> <a href="mailto:ingrik0713@gmail.com"> <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/>
+     </p>
+
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [My skills](#My_skills)
 - [Power_BI](#Power_BI)
 - [SQL examples](#SQL)
@@ -22,23 +29,6 @@
 - [Funnels](#Funneks)
 - [Acknowledgments](#acknowledgments)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Introduction
-<h3 align="left">👨🏻‍💻 About Me:</h3>
-- :computer: Currently I am influencers marketing senior specialist.
-- 🎓 Finished CodeAcademy Big Data courses.
-- 👩🏻‍💻📓💡 Currently in Turing College Data analytics courses
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I also hold 
-
-<h2 align="left">:heart: Let's get connected:</h2>
-
-## ✉️Contact me
-<p align="left">
-    <a href="https://www.linkedin.com/in/ingrida-ivinskait%C4%97-08b5837b/" target="_blank"> <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG31.png" alt="html5" width="105" height="40"/a> <a href="mailto:ingrik0713@gmail.com"> <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/>
-     </p>
 
 ## My Skills
 <details>
