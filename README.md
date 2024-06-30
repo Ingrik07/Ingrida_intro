@@ -22,6 +22,7 @@
 
 - [My skills](#My_skills)
 - [Spreadsheets/Excel](#Spreadsheets/Excel)
+- [Completed tasks](#Completed_tasks)
 - [Power_BI](#Power_BI)
 - [Big Query/SQL](#Big_Query/SQL)
 - [CLV](#CLV)
@@ -41,19 +42,26 @@
  <a href="https://workspace.google.com/" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/540f5515e4b06c4e8629c108/1602589192895-NWQYFQV5AZ69KPSVTBR2/google-workspace-logo.png" alt="google cloud" width="80" height="40"/> </a>
     </p>
 </details>
- 
- <details>
-<summary>🤓 My analytical and field skills</summary>
 
+ <details>
+  <summary><h4 align="left"> 🤓 My analytical and field skills </h4></summary>
+<p align="center">
+ 
 |  | Skills |
 |-----:|---------------|
 |     1|Finding and presenting OKRs |
 |     2|Answering advanced marketing questions |
 |     3|A/B testing |
-|     4|Helping to improve business performance |
+|     4|Funnels analysis |
+|     5|RFM and Customer life time value (CLV) analysis |
+|     6|Interactive dashboards for reports |
+|     7|Marketing and politics research papers |
+
 </details>
 
-## <img src="https://logodix.com/logo/1842250.jpg" alt="css3" width="30" height="30"/>  Spreadsheets/Excel
+## Completed tasks (grouped by tool)
+<details>
+<summary><h2 href="https://workspace.google.com/" target="_blank"> <img src="https://logodix.com/logo/1842250.jpg" alt="spreadsheet" width="40" height="40"/>  Spreadsheets/Excel </h2></summary>
 <details>
 <summary><a href="https://docs.google.com/spreadsheets/d/1EXAIpX7G6SyWvEQi6TA0AJnb4wjip7a564iDOeVHEmU/edit?gid=1815364512#gid=1815364512" target="_blank"> <img src="https://logodix.com/logo/1842250.jpg" alt="css3" width="20" height="20"/> </a>   Retention cohorts analysis</summary>
 
@@ -95,6 +103,7 @@
 >    5. Maybe you have an idea for business what could be interesting to look into from this data?
 
  <a href="https://docs.google.com/spreadsheets/d/1mXkR2ZgxV15nFy-baiwhZq2UzaSvLFK00_VBCH_QQLo/edit?gid=141689769#gid=141689769" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/Screenshot%202024-06-30%20at%2014.01.52.png" alt="spreadsheet" width="900" height="300"/> </a>
+</details>
 </details>
 
 <details>
