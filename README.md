@@ -44,18 +44,18 @@
 </details>
 
  <details>
-  <summary><h4 align="left"> 🤓 My analytical and field skills </h4></summary>
+  <summary><h4 align="left"> 🤓 Analytical and field skills </h4></summary>
 <p align="center">
  
 |  | Skills |
 |-----:|---------------|
-|     1|Finding and presenting OKRs |
-|     2|Answering advanced marketing questions |
-|     3|A/B testing |
-|     4|Funnels analysis |
-|     5|RFM and Customer life time value (CLV) analysis |
-|     6|Interactive dashboards for reports |
-|     7|Marketing and politics research papers |
+|     1|🎯 Finding and presenting OKRs |
+|     2|🗨️ Answering advanced marketing questions |
+|     3|🆎 A/B testing |
+|     4|📊 Funnels analysis |
+|     5|🕴️💰 RFM and Customer life time value (CLV) analysis |
+|     6|📈 Interactive dashboards for reports |
+|     7|📜 Marketing and politics research papers |
 
 </details>
 
