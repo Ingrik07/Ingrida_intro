@@ -1,11 +1,15 @@
 ## Hello, I am Ingrida!
 
-<picture>
+<p <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
  <img alt="See-my-image" src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
 </picture>
-
+ <h3 align="right"> ✉️Contact me </h3></p>
+ <p align="right">
+  <a href="https://www.linkedin.com/in/ingrida-ivinskait%C4%97-08b5837b/" target="_blank"> <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG31.png" alt="html5" width="85" height="35"/a> <a href="mailto:ingrik0713@gmail.com"> <img align="right" alt="Gmail" width="120" hight="40" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/>
+     </p>
+  </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
  
@@ -13,11 +17,6 @@
 - 👩‍🎓 Finished CodeAcademy Big Data courses
 - 👩🏻‍💻📓💻 Currently studying at Turing College Data analytics courses
 - ⚡ Fun fact: I also hold MA degree in Political science/European studies field
-
-<h4> ✉️Contact me </h4> 
-<p align="left">
-    <a href="https://www.linkedin.com/in/ingrida-ivinskait%C4%97-08b5837b/" target="_blank"> <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG31.png" alt="html5" width="85" height="35"/a> <a href="mailto:ingrik0713@gmail.com"> <img align="left" alt="Gmail" width="120" hight="40" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/>
-     </p>
 
 <details><summary><h2 align="left">📜 Table of Contents</h2></summary>
 
