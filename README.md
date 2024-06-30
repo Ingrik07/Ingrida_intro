@@ -36,7 +36,7 @@
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://console.cloud.google.com/bigquery" target="_blank"> <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
@@ -62,4 +62,111 @@
 |     2|Answering advanced marketing questions |
 |     3|A/B testing |
 |     4|Helping to improve business performance |
+</details>
+
+## Power BI
+-- Power BI Screenshots and files
+
+## SQL
+
+<details>
+<summary><a href="https://console.cloud.google.com/bigquery?sq=147855269776:a9a7016a5d384587b29dedab17b22b67" target="_blank"> <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" alt="css3" width="20" height="20"/> </a>  Big Query Customer life time value calculation example</summary>
+
+```
+WITH
+  cohort_weeks AS ( --defining the cohort weeks
+  SELECT
+    user_pseudo_id AS user_id,
+    MIN(DATE_TRUNC(PARSE_DATE('%Y%m%d', CAST(event_date AS String)), WEEK)) AS cohort_week
+  FROM
+    `tc-da-1.turing_data_analytics.raw_events`
+  GROUP BY
+    user_pseudo_id),
+
+  sum_rev AS ( --defining the revenue
+  SELECT
+    user_pseudo_id AS user_id,
+    purchase_revenue_in_usd AS revenue,
+    DATE_TRUNC(PARSE_DATE('%Y%m%d', event_date), WEEK) AS purchase_week
+  FROM
+    `tc-da-1.turing_data_analytics.raw_events` )
+
+SELECT 
+  w.cohort_week,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = cohort_week THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_0,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 1 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_1,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 2 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_2,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 3 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_3,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 4 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_4,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 5 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_5,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 6 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_6,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 7 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_7,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 8 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_8,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 9 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_9,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 10 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_10,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 11 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_11,
+  ROUND(SUM(
+      CASE
+        WHEN purchase_week = DATE_ADD(cohort_week, INTERVAL 12 week) THEN revenue
+    END
+      ) / COUNT(DISTINCT w.user_id), 4) AS week_12
+FROM
+  cohort_weeks AS w
+LEFT JOIN
+  sum_rev r
+ON
+  w.user_id = r.user_id
+GROUP BY
+  w.cohort_week
+ORDER BY
+  w.cohort_week
+```
 </details>
