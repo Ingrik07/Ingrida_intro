@@ -98,16 +98,20 @@
  <a href="https://docs.google.com/spreadsheets/d/1mXkR2ZgxV15nFy-baiwhZq2UzaSvLFK00_VBCH_QQLo/edit?gid=141689769#gid=141689769" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/Screenshot%202024-06-30%20at%2014.01.52.png" alt="spreadsheet" width="900" height="300"/> </a>
 </details>
 
-## <a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/Graded%20Task%20-%20Ingrida.pbit" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="powerbi" width="40" height="40"/> </a> Power BI
+<details>
+ <summary><h2 href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/Graded%20Task%20-%20Ingrida.pbit" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="powerbi" width="40" height="40"/> Power BI </h2></summary>
 
 <details>
  <summary><a href="https://app.powerbi.com/home" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="20" height="20"/> </a>Data visualising with Power BI </summary>
- https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/Graded%20Task%20-%20Ingrida.pbit
+ Click on the image below for Power BI file
+ 
+ <a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/Graded%20Task%20-%20Ingrida.pbit" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/sales%20power%20bi.JPG" alt="spreadsheet" width="712" height="798"/> </a>
 </details>
 
 <details>
  <summary><a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="20" height="20"/> </a>RFM analysis </summary>
  https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix
+</details>
 </details>
 
 ## <details> <summary><a href="https://console.cloud.google.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" alt="css3" width="30" height="30"/> </a>  Big Query/SQL</summary>
