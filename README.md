@@ -110,11 +110,14 @@
 
 <details>
  <summary><a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="20" height="20"/> </a>RFM analysis </summary>
- https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix
+
+Power BI file [HERE]( https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix)
+
+<a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/RFM%20power%20bi.JPG" alt="powerbi" width="518" height="815"/> </a>
 </details>
 </details>
 
-## <details> <summary><a href="https://console.cloud.google.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" alt="css3" width="30" height="30"/> </a>  Big Query/SQL</summary>
+<details> <summary><h2 href="https://console.cloud.google.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" alt="css3" width="30" height="30"/>  Big Query/SQL</h2></summary>
 
 <details>
 <summary><a href="https://console.cloud.google.com/bigquery?sq=147855269776:a9a7016a5d384587b29dedab17b22b67" target="_blank"> <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" alt="css3" width="20" height="20"/> </a>  Big Query Customer life time value calculation example</summary>
@@ -679,4 +682,5 @@ GROUP BY
 ORDER BY
   cu.campaign;
 ```
+</details>
 </details>
