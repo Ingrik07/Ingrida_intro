@@ -1,9 +1,21 @@
-## Hello, I am Ingrida!
+### Hello, I am Ingrida!
 
-<p <picture>
+<p <img align="right">
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
- <img alt="See-my-image" src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
+ <img alt="See-my-image" src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png" />
+
+
+ 
+  ### Get to know more about me: 
+- 🖥️ I’m currently working as Influencers marketing specialist.
+- 🌱 I’m currently learning Data Analytics.
+- 📈 I’m looking to collaborate data analytics projects.
+- 📸 Photography is my passion.
+- 🏊‍♀️ I like swimming.
+- ⚡ Fun fact: I also hold MA degree in Political science/European studies field.
+- Constantly seeking for improvements in my carreer and daily life.
+ 
 </picture>
  <h3 align="right"> ✉️Contact me </h3></p>
  <p align="right">
