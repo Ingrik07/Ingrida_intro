@@ -23,10 +23,11 @@
 - [My skills](#My_skills)
 - [Spreadsheets/Excel](#Spreadsheets/Excel)
 - [Completed tasks](#Completed_tasks)
+- [Spreadsheets/Excel](#Spreadsheets/Excel)
 - [Power_BI](#Power_BI)
 - [Big Query/SQL](#Big_Query/SQL)
-- [CLV](#CLV)
-- [Acknowledgments](#acknowledgments)
+- [Jupyter Notebook](In progress...)
+- More about me (to be added)
 </details>
 
 ## My Skills
