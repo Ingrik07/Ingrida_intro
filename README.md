@@ -1,9 +1,10 @@
 ### Hello, I am Ingrida!
 
-<p <img align="right">
+<img align="left">
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png" width="30%" height="30%">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
- <img alt="See-my-image" src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png"/>
+ <img align="left" alt="See-my-image" src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png"/>
+ 
  ### Get to know more about me: 
 - 🖥️ I’m currently working as Influencersmarketing specialist.
 - 🌱 I’m currently learning Data Analytics.
@@ -16,7 +17,7 @@
 </picture>
  <h3 align="right"> ✉️Contact me </h3></p>
  <p align="right">
-  <a href="https://www.linkedin.com/in/ingrida-ivinskait%C4%97-08b5837b/" target="_blank"> <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG31.png" alt="html5" width="85" height="35"/a> <a href="mailto:ingrik0713@gmail.com"> <img align="right" alt="Gmail" width="120" hight="40" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/>
+  <a href="https://www.linkedin.com/in/iivinskaite/" target="_blank"> <img src="https://img.shields.io/badge/-iivinskaite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iivinskaite/)" alt="html5" width="10%"/a> <a href="mailto:ingrik0713@gmail.com"> <img align="right" alt="Gmail" width="8%" height="8%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/>
      </p>
   </p>
 
