@@ -17,8 +17,9 @@
 </picture>
  <h3 align="left"> ✉️Contact me </h3></p>
  <p align="left">
-  <a href="https://www.linkedin.com/in/iivinskaite/" target="_blank"> <img src="https://img.shields.io/badge/-iivinskaite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iivinskaite/)" alt="html5" width="10%"/a>
-   <a href="mailto:ingrik0713@gmail.com"> <img align="left" alt="Gmail" width="8%" height="8%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/a> <a href="https://ingridaivinskaite.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile"> <img alt="Substack" width="20%" height="20%" src="https://badgen.net/badge/Substack/ingridaivinskaite/orange"/a>
+  <a href="https://www.linkedin.com/in/iivinskaite/" align="left"> <img src="https://img.shields.io/badge/-iivinskaite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iivinskaite/)" alt="html5" width="10%"/a>
+   <a href="mailto:ingrik0713@gmail.com"> <img align="left" alt="Gmail" width="10%" height="10%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/a>
+    <a href="https://ingridaivinskaite.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile"> <img align="left" alt="Substack" width="20%" height="20%" src="https://badgen.net/badge/Substack/ingridaivinskaite/orange"/a>
      </p>
   </p>
 
