@@ -1,7 +1,7 @@
 ### Hello, I am Ingrida!
 
 <img align="left">
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png" width="30%" height="30%">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png" width="50%" height="50%">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png">
  <img align="left" alt="See-my-image" src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Screenshot%202024-06-28%20at%2015.39.05.png"/>
  
@@ -15,9 +15,10 @@
 - Constantly seeking for improvements in my carreer and daily life.
  
 </picture>
- <h3 align="right"> ✉️Contact me </h3></p>
- <p align="right">
-  <a href="https://www.linkedin.com/in/iivinskaite/" target="_blank"> <img src="https://img.shields.io/badge/-iivinskaite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iivinskaite/)" alt="html5" width="10%"/a> <a href="mailto:ingrik0713@gmail.com"> <img align="right" alt="Gmail" width="8%" height="8%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/>
+ <h3 align="left"> ✉️Contact me </h3></p>
+ <p align="left">
+  <a href="https://www.linkedin.com/in/iivinskaite/" target="_blank"> <img src="https://img.shields.io/badge/-iivinskaite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iivinskaite/)" alt="html5" width="10%"/a>
+   <a href="mailto:ingrik0713@gmail.com"> <img align="left" alt="Gmail" width="8%" height="8%" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" width="100" height="40"/a> <a href="https://ingridaivinskaite.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile"> <img alt="Substack" width="20%" height="20%" src="https://badgen.net/badge/Substack/ingridaivinskaite/orange"/a>
      </p>
   </p>
 
