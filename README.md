@@ -128,9 +128,9 @@ Below you can find data analytics tasks grouped by tool 🛠️
 </details>
 
 <details>
- <summary><a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/readme.md#---power-bi-bussines-sales-analysis-" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="20" height="20"/> </a>RFM analysis </summary>
+ <summary><a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/readme.md" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="20" height="20"/> </a>RFM analysis </summary>
 
-Power BI project [HERE](https://github.com/Ingrik07/Ingrida_intro/edit/main/PowerBI/readme.md#---power-bi-rfm-analysis-)
+Power BI project [HERE](https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/readme.md)
 
 <a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/RFM%20power%20bi.JPG" alt="powerbi" width="518" height="815"/> </a>
 </details>
