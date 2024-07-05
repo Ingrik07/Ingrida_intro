@@ -12,7 +12,7 @@
 - 📸 Photography is my passion.
 - 🏊‍♀️ I like swimming.
 - ⚡ Fun fact: I also hold MA degree in Political science and European studies field.
-- Constantly seeking for improvements in my carreer and daily life.
+- 🤓Constantly seeking for improvements in my carreer and daily life.
  
 </picture>
  <h3 align="left"> ✉️Contact me </h3></p>
@@ -117,7 +117,8 @@
 
 <details>
  <summary><a href="https://app.powerbi.com/home" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="20" height="20"/> </a>Data visualising with Power BI </summary>
- Click on the image below for Power BI file
+ Click on the image below to learn more about the project! 💰📊
+ 
  
  <a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/Graded%20Task%20-%20Ingrida.pbit" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/sales%20power%20bi.JPG" alt="spreadsheet" width="712" height="798"/> </a>
 </details>
@@ -125,7 +126,7 @@
 <details>
  <summary><a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="20" height="20"/> </a>RFM analysis </summary>
 
-Power BI file [HERE]( https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix)
+Power BI project [HERE]( https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix)
 
 <a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/RFM%20power%20bi.JPG" alt="powerbi" width="518" height="815"/> </a>
 </details>
