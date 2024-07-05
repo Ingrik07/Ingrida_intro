@@ -1,3 +1,8 @@
+SQL RFM task:
+1. Calculate recency, frequency and money value and convert those values into R, F and M scores by using Quartiles.
+2. Calculate common RFM score.
+3. Segment customers into Best Customers, Loyal Customers, Big Spenders, Lost Customers and other categories
+
 ```sql
 --Creating CUSTOMER table
 WITH
