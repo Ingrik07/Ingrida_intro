@@ -65,7 +65,8 @@
 
 </p></details>
 
-## Completed tasks (grouped by tool)
+## Completed tasks
+Below you can find data analytics tasks grouped by tool 🛠️
 <details>
 <summary><h2 href="https://workspace.google.com/" target="_blank"> <img src="https://logodix.com/logo/1842250.jpg" alt="spreadsheet" width="40" height="40"/>  Spreadsheets/Excel </h2></summary>
 <details>
@@ -141,7 +142,7 @@ Power BI project [HERE]( https://github.com/Ingrik07/Ingrida_intro/blob/main/Pow
 > TASK: As the first step you should write 1 or 2 queries to pull data of weekly revenue divided by registrations.
 > Since in this particular site there is no concept of registration, we will simply use the first visit to our website as registration date (registration cohort).
 > 
-```
+```sql
 WITH
   cohort_weeks AS ( --defining the cohort weeks
   SELECT
@@ -248,7 +249,7 @@ ORDER BY
 > You can check your results with rfm_value table and rfm_quantiles.
 > Those tables contain intermediate calculations and are used in next steps(1 step: calculate RFM values, possible answer - rfm_value table, 2 step: calculate RFM quantiles from RFM values, possible answer - rfm_quantiles).
 > 
-```
+```sql
 fm AS ( --frequency and monetary
 SELECT
 CustomerID,
@@ -418,7 +419,7 @@ CustomerID
 > TASK: You should provide weekly subscriptions data that shows how many subscribers started their subscription in a particular week and how many remain active in the following 6 weeks.
 > Your end result should show weekly retention cohorts for each week of data available in the dataset and their retention from week 0 to week 6.
 > 
-```
+```sql
 -- code to calculate subscriptions retention rate, %
 
 WITH
@@ -589,7 +590,7 @@ GROUP BY
 > TASK: You should provide weekly subscriptions data that shows how many subscribers started their subscription in a particular week and how many remain active in the following 6 weeks.
 > Your end result should show weekly retention cohorts for each week of data available in the dataset and their retention from week 0 to week 6.
 > 
-```
+```sql
 --unique users events
 SELECT user_pseudo_id, MIN(event_timestamp) as first_event_timestamp, event_name, country
 FROM `tc-da-1.turing_data_analytics.raw_events`
