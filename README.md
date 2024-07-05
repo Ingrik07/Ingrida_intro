@@ -13,6 +13,7 @@
 - 🏊‍♀️ I like swimming.
 - ⚡ Fun fact: I also hold MA degree in Political science and European studies field.
 - 🤓Constantly seeking for improvements in my carreer and daily life.
+</br >
  
 </picture>
  <h3 align="left"> ✉️Contact me </h3></p>
@@ -22,30 +23,31 @@
     <a href="https://ingridaivinskaite.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile"> <img align="left" alt="Substack" width="20%" height="20%" src="https://badgen.net/badge/Substack/ingridaivinskaite/orange"/a>
      </p>
   </p>
-
+  </br >
+     
 <details><summary><h2 align="left">📜 Table of Contents</h2></summary>
 
-- [My skills](#My_skills)
+- [My skills](#My-skills)
 - [Spreadsheets/Excel](#Spreadsheets/Excel)
-- [Completed tasks](#Completed_tasks)
+- [Completed tasks](#Completed-tasks)
 - [Spreadsheets/Excel](#Spreadsheets/Excel)
-- [Power_BI](#Power_BI)
-- [Big Query/SQL](#Big_Query/SQL)
+- [Power_BI](#Power-BI)
+- [Big Query/SQL](#Big-Query/SQL)
 - [Jupyter Notebook](In progress...)
-- More about me (to be added)
 </details>
+</br >
 
 ## My Skills
 <details>
 <summary><h4 align="left">:hammer_and_wrench: Tools I use:</h4></summary>
 <p align="left">
     <a href="https://console.cloud.google.com/bigquery" target="_blank"> <img src="https://w7.pngwing.com/pngs/182/372/png-transparent-google-bigquery-hd-logo.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://workspace.google.com/products/sheets" target="_blank"> <img src="https://logodix.com/logo/1842250.jpg" alt="sass" width="40" height="40"/> </a>
-<a href="https://app.powerbi.com/home" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="50" height="40"/> </a>
+<a href="https://workspace.google.com/products/sheets" target="_blank"> <img src="https://logodix.com/logo/1842250.jpg" alt="spreadsheet" width="40" height="40"/> </a>
+<a href="https://app.powerbi.com/home" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="powerbi" width="50" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.urLHYMYPFxkcs6AC4Io9vwHaHa%26pid%3DApi&f=1&ipt=71efdcecfa2727de604a484cb7c65e6b0ad68511d8ee20060b81dd649b8dfeba&ipo=images" alt="react" width="40" height="40"/> </a>
-<a href="https://looker.com/" target="_blank"> <img src="https://saasrank.es/wp-content/uploads/2022/08/Looker-logo.jpg" alt="gatsby" width="40" height="40"/> </a>
+<a href="https://looker.com/" target="_blank"> <img src="https://saasrank.es/wp-content/uploads/2022/08/Looker-logo.jpg" alt="looker" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://workspace.google.com/" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/540f5515e4b06c4e8629c108/1602589192895-NWQYFQV5AZ69KPSVTBR2/google-workspace-logo.png" alt="google cloud" width="80" height="40"/> </a>
+ <a href="https://workspace.google.com/" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/540f5515e4b06c4e8629c108/1602589192895-NWQYFQV5AZ69KPSVTBR2/google-workspace-logo.png" alt="google workspace" width="80" height="40"/> </a>
     </p>
 </details>
 
@@ -121,13 +123,13 @@ Below you can find data analytics tasks grouped by tool 🛠️
  Click on the image below to learn more about the project! 💰📊
  
  
- <a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/Graded%20Task%20-%20Ingrida.pbit" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/sales%20power%20bi.JPG" alt="spreadsheet" width="712" height="798"/> </a>
+ <a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/readme.md#---power-bi-bussines-sales-analysis-" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/sales%20power%20bi.JPG" alt="spreadsheet" width="712" height="798"/> </a>
 </details>
 
 <details>
  <summary><a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="webpack" width="20" height="20"/> </a>RFM analysis </summary>
 
-Power BI project [HERE]( https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix)
+Power BI project [HERE](https://github.com/Ingrik07/Ingrida_intro/edit/main/PowerBI/readme.md#---power-bi-rfm-analysis-)
 
 <a href="https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/rfm_analysis.%20Ingrida%20Ivinskaite.pbix" target="_blank"> <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/RFM%20power%20bi.JPG" alt="powerbi" width="518" height="815"/> </a>
 </details>
