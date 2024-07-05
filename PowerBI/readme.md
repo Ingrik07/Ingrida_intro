@@ -32,10 +32,6 @@ Here you can find a detailed Power BI projects tasks.
 </ br>
 
 > **Added sales map representing the country markets by sales and products.**
-
-<p align="center">
-  <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/Screenshots/map%20product.JPG" width="70%" height="70%">
-</p>
 </details>
 </details>
 
@@ -43,6 +39,30 @@ Here you can find a detailed Power BI projects tasks.
 
 1. Use SQL for calculation and data selection. ([HERE](https://github.com/Ingrik07/Ingrida_intro/edit/main/SQL/SQL_sales_analysis.md) you can find the SQL code <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="5%" height="5%" />)
 2. Present your RFM analyses with a dashboard by using Power BI.
-3. Insights on RFM analysis
+3. Insights on RFM analysis.
+
+<p align="center">
+  <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/Screenshots/RFM%20bubbles.JPG" width="70%" height="70%">
+</p>
+
+> The most profitable customers segment - **Best Customers**. They have highest frequency and monetary scores. Although the customers are quite active (purchases are recent), they should be awarded for loyalty with exceptional deals dedicated to them.
+> **Big spenders** - the 2nd highest monetary rate, but their purchases are average recency. We should provide them with more targeted/personalized offers.
+> 
+> **Can't lose them** - although the customers have lower than average monetary base and average frequency, they still add up to the business revenue, these should receive some exceptional attention: combined personalized deals, inclusion into loyalty program, awards for purchases.
+> 
+> **Recent customers** - loyalty program should be provided to them. Their purchase should followed up with asking for the feedback, providing loyalty program and keeping them informed about the best deals.
+
+<p align="center">
+  <img src="https://github.com/Ingrik07/Ingrida_intro/blob/main/Logos/Screenshots/segments.JPG" width="70%" height="70%">
+</p>
+
+> The most profitable customers segment - **Best Customers**. They have highest frequency and monetary scores. Although the customers are quite active (purchases are recent), they should be awarded for loyalty with exceptional deals dedicated to them.
+> **The lost customers** segment takes almost the same part from total customers number as the best customers.
+> The good sign here is that we have the widest best customers segment (considering that we took best scores).
+>
+> **Recent customers** - the ones who have purchased recently but have no loyalty, are first-timers, etc. These take also pretty considerable part of all customer base and they require a lot of attention.
+>
+> **11% require especially urgent and clear attention**, since their purchase was quite a while ago (3/4 quartiles) but they have at least average monetary score.
+> **Loyal customers** base is quite small, so this shows that we need to grow regular buyers base (even if it's average spending).
 
 </details>
