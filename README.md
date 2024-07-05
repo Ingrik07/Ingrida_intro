@@ -27,13 +27,14 @@
      
 <details><summary><h2 align="left">📜 Table of Contents</h2></summary>
 
-- [My skills](#My-skills)
-- [Spreadsheets/Excel](#Spreadsheets/Excel)
-- [Completed tasks](#Completed-tasks)
-- [Spreadsheets/Excel](#Spreadsheets/Excel)
-- [Power_BI](#Power-BI)
-- [Big Query/SQL](#Big-Query/SQL)
-- [Jupyter Notebook](In progress...)
+- [My skills](#my-skills)
+- [Spreadsheets/Excel](#---spreadsheetsexcel)
+- - [Tools I use](#hammer_and_wrench-tools-i-use)
+  - [Analytical and field skills](#--analytical-and-field-skills-)
+- [Completed tasks](#completed-tasks)
+- [Power_BI](#--power-bi-)
+- [Big Query/SQL](#---big-querysql)
+- [Jupyter Notebook(In progress)](#-jupyter)
 </details>
 </br >
 
@@ -70,7 +71,7 @@
 ## Completed tasks
 Below you can find data analytics tasks grouped by tool 🛠️
 <details>
-<summary><h2 href="https://workspace.google.com/" target="_blank"> <img src="https://logodix.com/logo/1842250.jpg" alt="spreadsheet" width="40" height="40"/>  Spreadsheets/Excel </h2></summary>
+<summary><h2 href="https://workspace.google.com/" target="_blank"> <img src="https://logodix.com/logo/1842250.jpg" alt="spreadsheet" width="40" height="40"/>  Spreadsheets/Excel</h2></summary>
 <details>
 <summary><a href="https://docs.google.com/spreadsheets/d/1EXAIpX7G6SyWvEQi6TA0AJnb4wjip7a564iDOeVHEmU/edit?gid=1815364512#gid=1815364512" target="_blank"> <img src="https://logodix.com/logo/1842250.jpg" alt="css3" width="20" height="20"/> </a>   Retention cohorts analysis</summary>
 
@@ -701,4 +702,10 @@ ORDER BY
   cu.campaign;
 ```
 </details>
+</details>
+
+<details>
+ <summary><h2 href="https://jupyter.org//" target="_blank"> <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="jupyter" width="4%" height="4%"/>Jupyter</h2></summary>
+ <h3> In progress... </h3>
+ <img src="https://media1.tenor.com/images/ac226cfe289a96e242f146a304bf95ba/tenor.gif" width="25%" height="25%" />
 </details>
