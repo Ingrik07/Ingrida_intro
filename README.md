@@ -707,5 +707,9 @@ ORDER BY
 <details>
  <summary><h2 href="https://jupyter.org//" target="_blank"> <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="jupyter" width="4%" height="4%"/>Jupyter</h2></summary>
  <h3> In progress... </h3>
- <img src="https://media1.tenor.com/images/ac226cfe289a96e242f146a304bf95ba/tenor.gif" width="25%" height="25%" />
+ <img src="https://media1.tenor.com/images/ac226cfe289a96e242f146a304bf95ba/tenor.gif" width="25%" height="25%"/></details><img>
 </details>
+</br >
+
+#### Contributions 2024
+ <img align="center" alt="contribution" src="https://github.com/Ingrik07/Ingrida_intro/assets/60187509/36b81bc2-e29c-419b-a91d-99554d02a1f0" width="70%" height="70%"/>
