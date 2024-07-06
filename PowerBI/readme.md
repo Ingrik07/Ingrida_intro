@@ -37,7 +37,7 @@ Here you can find a detailed Power BI projects tasks.
 
 <details><summary><h3> <a href="https://app.powerbi.com/home" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="powerbi" width="25" height="25"/> </a>Power BI RFM analysis </h3></summary>
 
-1. Use SQL for calculation and data selection. ([HERE](https://github.com/Ingrik07/Ingrida_intro/edit/main/SQL/SQL_sales_analysis.md) you can find the SQL code <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="5%" height="5%" />)
+1. Use SQL for calculation and data selection. ([HERE](https://github.com/Ingrik07/Ingrida_intro/main/SQL/SQL_sales_analysis.md) you can find the SQL code <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="5%" height="5%" />)
 2. Present your RFM analyses with a dashboard by using Power BI.
 3. Insights on RFM analysis.
 
