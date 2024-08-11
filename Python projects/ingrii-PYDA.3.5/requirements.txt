@@ -1,0 +1,6 @@
+# requirements.txt file with specific versions
+with open('requirements.txt', 'w') as f:
+    f.write('pandas==1.3.3\n')
+    f.write('matplotlib==3.4.3\n')
+    f.write('seaborn==0.11.2\n')
+    f.write('prettytable==2.1.0\n')
