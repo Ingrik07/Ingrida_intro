@@ -706,8 +706,49 @@ ORDER BY
 
 <details>
  <summary><h2 href="https://jupyter.org//" target="_blank"> <img src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="jupyter" width="4%" height="4%"/>Jupyter</h2></summary>
- <h3> In progress... </h3>
- <img src="https://media1.tenor.com/images/ac226cfe289a96e242f146a304bf95ba/tenor.gif" width="25%" height="25%"/></details><img>
+
+ <details>
+ <summary><a />Cardiovascular study predictive model 🩺❤️ </a></summary>
+ 
+ 
+ Online version on [Kaggle](https://www.kaggle.com/code/ingridaivinskait/chd-risk-prediction-iivinskaite).
+
+ Document in the repository [HERE](https://github.com/Ingrik07/Ingrida_intro/blob/main/Python%20projects/chd-risk-prediction-iivinskaite%20(1).ipynb).
+
+ 
+## Goal of the analysis
+To find the best fitting machine learning model for predicting 10-year risk of coronary heart disease (CHD).
+
+### Observations
+
+1. Dataset has 3390 rows and 17 features.
+
+2. 2 Features were non-numerical (but easily convertable is they are a binary system).
+
+3. After checking the values of CHD risk, 84.9% of the cases has no risk of CHD.
+
+4. After checking all features correlation, there can be seen a 3 correlations 0.6-0.7. However, these did not help for the further results as we still needed the correlating features in the model to have the best possible model fit.
+
+5. After trying to drop all rows with the outliers, almost 30% of data was dropped, so there was a need to fill all NAs (mostly by mode method).
+
+## Conclusion
+The dataset contains two classes: class 0 (majority class) and class 1 (minority class), with a significant class imbalance (581 samples for class 0 and 97 samples for class 1). Class imbalance poses a challenge for machine learning models, as they tend to focus on correctly predicting the majority class, which can lead to poor performance on the minority class.
+
+Model Performance: Initial models (Logistic Regression, Decision Tree, KNN, and Random Forest) showed relatively poor F1-scores, particularly for the minority class (class 1). This was due to a focus on maximizing accuracy and precision for class 0, while neglecting class 1. Best F1-scores: Decision Tree: 0.27 for class 1 (best model for the minority class). Logistic Regression, KNN, and Random Forest struggled to balance precision and recall for class 1.
+
+Solution to the class imbalance:
+
+Applying SMOTE helped to balance the dataset by generating synthetic samples for class 1. This improved recall for class 1, though precision remained low, indicating ongoing challenges with predicting minority class cases accurately. The Decision Tree model improved slightly after SMOTE, with recall for class 1 increasing to 0.33, although precision for class 1 was still relatively low (0.23). Confusion Matrix Analysis:
+
+Areas for improvement
+Minority Class Prediction: The model struggles to identify class 1 (the minority class), with relatively low recall and precision. Despite SMOTE, the model still has a high number of false negatives, meaning many actual class 1 cases are missed.
+
+Threshold Tuning: Adjusting the decision threshold could help improve the balance between precision and recall for class 1, potentially improving F1-score and reducing false negatives.
+
+Model Complexity: More complex models, such as Gradient Boosting or XGBoost, may be able to capture more complex relationships in the data and improve minority class prediction.
+
+Feature Engineering: Improving the quality of the features through selection or engineering could lead to better model performance, especially in distinguishing between the two classes.
+</details>
 </details>
 </br >
 
