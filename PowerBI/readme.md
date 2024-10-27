@@ -66,3 +66,35 @@ Here you can find a detailed Power BI projects tasks.
 > **Loyal customers** base is quite small, so this shows that we need to grow regular buyers base (even if it's average spending).
 
 </details>
+
+<details><summary><h3> <a href="https://app.powerbi.com/home" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="powerbi" width="25" height="25"/> </a>Power BI RFM analysis </h3></summary>
+
+### Sprint: Marketing Analytics
+
+Dataset: _raw_events_
+
+The goal of the analysis is to explore turing_college.raw_events dataset and find useful insights about the customer behaviour on the website.
+The analysis answers to he main questions as:
+1) identify if users tend to spend more time on the certain weekdays,
+2) to analyse how audience tend to act on different weekdays and campaigns;
+3) Customers behaviour by country.
+4) find the other useful insights.
+
+
+## Main takeaways:
+- Most of the sessions have no campaigns assigned (99.5%).
+- ‘Data share promo’ has the highest number of assigned sessions (1656). It means that there were one big or many campaigns in collaboration with the partners (or booked campaigns).
+- The biggest portions (16.6-16.8%) of total sessions Wednesdays and Thursdays (no matter the month).
+- The biggest portions (6.09%-7.09%) of total sessions Wed-Thu-Fri in December. In November, people are most active on Tuesday.
+- Longest durations appear on BF V2 campaign Monday/Tuesday/Saturday and NY V2 campaign Sunday.
+- Sessions are registered from 109 countries. 3 of them represent ~60% of audience.
+
+Report slides: [HERE](https://docs.google.com/presentation/d/1Ckrv7hqwxQz57Cllne9TiZ8wo3a6585J3stop27x8ZY/edit?usp=sharing)
+SQL code:
+[Here](https://console.cloud.google.com/bigquery?sq=147855269776:80e7942712334bf3ad6725daaa0f5234) you can find the code.
+
+Power BI full dashboard:
+[HERE](https://github.com/Ingrik07/Ingrida_intro/blob/main/PowerBI/sessions_data.pbix)
+
+</details>
+
