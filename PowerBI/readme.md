@@ -67,7 +67,7 @@ Here you can find a detailed Power BI projects tasks.
 
 </details>
 
-<details><summary><h3> <a href="https://app.powerbi.com/home" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="powerbi" width="25" height="25"/> </a>Power BI RFM analysis </h3></summary>
+<details><summary><h3> <a href="https://app.powerbi.com/home" target="_blank"> <img src="https://www.ptr.co.uk/sites/default/files/powerbilogo.png" alt="powerbi" width="25" height="25"/> </a>Website sessions data analysis </h3></summary>
 
 ### Sprint: Marketing Analytics
 
